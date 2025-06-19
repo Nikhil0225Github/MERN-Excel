@@ -1,0 +1,18 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+#Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+#Enviornment variables
+.env
+
+#build outut
+Client/build/
+
+#Temporary files
+*.log
+*.tmp
+
+# VS Code
+.vscode/
